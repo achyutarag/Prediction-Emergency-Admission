@@ -1,0 +1,37 @@
+# Healthcare ML Prediction - Python Dependencies
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+scipy>=1.9.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.10.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+notebook>=6.4.0
+
+# Data Processing
+openpyxl>=3.0.0
+xlrd>=2.0.0
+
+# Statistical Analysis
+statsmodels>=0.13.0
+
+# Progress Bars and Utilities
+tqdm>=4.64.0
+
+# Optional: For advanced visualization
+# bokeh>=2.4.0
+# altair>=4.2.0
+
+# Development and Testing (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
