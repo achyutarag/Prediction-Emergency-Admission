@@ -41,30 +41,6 @@ jupyter notebook
 # 4. 4_discussion_insights.ipynb
 ```
 
-## 📁 Project Structure
-
-```
-healthcare-ml-prediction/
-├── README.md                           # This file
-├── requirements.txt                    # Python dependencies
-├── notebooks/                          # Jupyter notebooks
-│   ├── 1_preprocessing_scaling.ipynb   # Data preprocessing & EDA
-│   ├── 2_binary_logistic_regression.ipynb  # Logistic regression analysis
-│   ├── 3_random_forest.ipynb          # Random forest analysis
-│   └── 4_discussion_insights.ipynb    # Results & insights
-├── src/                                # Modular Python scripts
-│   ├── data_preprocessing.py           # Data cleaning functions
-│   ├── model_training.py              # Model training utilities
-│   └── evaluation_metrics.py          # Performance evaluation
-├── data/                               # Data storage
-│   ├── raw/                           # Original datasets
-│   └── processed/                     # Cleaned datasets
-├── results/                           # Output files
-│   ├── figures/                       # Plots and visualizations
-│   └── model_performance/             # Model metrics and reports
-└── docs/                              # Documentation
-    └── methodology.md                 # Detailed methodology
-```
 
 ## 🔬 Methodology
 
