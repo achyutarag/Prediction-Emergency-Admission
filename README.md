@@ -8,13 +8,13 @@
 
 This project develops machine learning models to predict emergency department (ED) disposition outcomes for patients presenting with hypertensive crises. Using clinical and socioeconomic indicators, we achieve **99.99% accuracy** in predicting whether patients will be admitted to the hospital or discharged.
 
-### 🎯 Key Results
+###  Key Results
 - **Model Performance**: 99.99% accuracy with both Logistic Regression and Random Forest
 - **Dataset**: 33,727 weighted ED visits from Nationwide Emergency Department Sample (NEDS)
 - **Features**: 100+ features including demographics, payer type, hospital characteristics
 - **Business Impact**: Potential to improve ED triage efficiency and reduce healthcare disparities
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 ```bash
@@ -42,7 +42,7 @@ jupyter notebook
 ```
 
 
-## 🔬 Methodology
+##  Methodology
 
 ### Data Source
 - **Dataset**: Nationwide Emergency Department Sample (NEDS)
@@ -78,7 +78,7 @@ jupyter notebook
 3. **Sex_Male** - Male patients slightly more likely to be admitted
 4. **Geographic factors** - Hospital location and region significantly impact decisions
 
-## 💼 Business Impact
+##  Business Impact
 
 ### Clinical Applications
 - **ED Triage Optimization**: Improve patient flow and resource allocation
@@ -90,7 +90,7 @@ jupyter notebook
 - **Policy Development**: Inform evidence-based healthcare policies
 - **Resource Planning**: Optimize hospital capacity and staffing
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 - **Python 3.8+**
 - **Scikit-learn**: Machine learning algorithms
@@ -99,7 +99,7 @@ jupyter notebook
 - **Matplotlib/Seaborn**: Data visualization
 - **Jupyter**: Interactive development environment
 
-## 📈 Future Work
+##  Future Work
 
 - [ ] **Deep Learning Models**: Implement neural networks for comparison
 - [ ] **Real-time Deployment**: Deploy model in production ED systems
@@ -107,23 +107,23 @@ jupyter notebook
 - [ ] **Fairness Analysis**: Comprehensive bias detection and mitigation
 - [ ] **Multi-class Extension**: Predict specific admission types (ICU, general ward, etc.)
 
-## 👨‍💻 Author
+##  Author
 
 **Achyuta Raghunathan**  
 UC Irvine, Math 10, Spring 2025  
 Course Project: Healthcare Machine Learning
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Original research paper: [PMC10024970](https://pmc.ncbi.nlm.nih.gov/articles/PMC10024970/)
 - Nationwide Emergency Department Sample (NEDS) dataset
 - UC Irvine Math 10 course materials
 
-## 📞 Contact
+##  Contact
 
 For questions or collaboration opportunities, please reach out through GitHub issues or email.
 
